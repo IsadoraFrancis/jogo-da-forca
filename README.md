@@ -30,7 +30,7 @@ Um jogo da forca simples e divertido desenvolvido em **Python**, com interface g
    ```
 2. **Execute o jogo**:
 ```
-python forca.py
+python app.py
 ```
 ---
 ## 🙌 Créditos
