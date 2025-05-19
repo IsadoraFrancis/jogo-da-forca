@@ -26,7 +26,7 @@ Um jogo da forca simples e divertido desenvolvido em **Python**, com interface g
 1. **Clone este repositório**:
    ```
    git clone https://github.com/IsadoraFrancis/jogo-da-forca.git
-   cd jogo-da-forca-tkinter
+   cd jogo-da-forca
    ```
 2. **Execute o jogo**:
 ```
